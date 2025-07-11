@@ -59,7 +59,7 @@ const Index = () => {
               </div>
               <p className="text-muted-foreground text-sm mb-3">Your GTM Dream Team  in the Cloud</p>
               <p className="text-muted-foreground text-xs">
-                Developed and owned by <a href="https://lovable.dev/projects/17c863f0-1b99-47b4-b518-1cfeb4ca4df1" target="_blank" rel="noopener noreferrer" className="font-medium hover:text-foreground transition-colors">Brewra Ventures</a>
+                Developed and owned by <a href="https://lovable.dev/projects/17c863f0-1b99-47b4-b518-1cfeb4ca4df1" target="_blank" rel="noopener noreferrer" className="font-medium hover:text-foreground transition-colors">Brewra LLC</a>
               </p>
             </div>
             <div>
@@ -87,7 +87,7 @@ const Index = () => {
               </ul>
             </div>
           </div>
-          <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">© 2025 Brewra.AI. All rights reserved. Developed and owned by <a href="https://www.brewra.com" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">Brewra Ventures</a>.</div>
+          <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">© 2025 Brewra.AI. All rights reserved. Developed and owned by <a href="https://www.brewra.com" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">Brewra LLC</a>.</div>
         </div>
       </footer>
     </div>;
